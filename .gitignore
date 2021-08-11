@@ -1,0 +1,7 @@
+*.mp3
+*.mp4
+*.wav
+/venv
+*.ipynb
+/src/*.txt
+/audio-chunks
