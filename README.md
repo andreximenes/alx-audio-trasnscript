@@ -44,7 +44,7 @@ This script was built to help the large audio or video files transcription. Curr
  6. The process will start extracting the audio (mp3) from video file.
  7. After, the mp3 audio will be converted to wav.
  8. In the final step, the process will catch the large audio file (wav) and will slice in small chunks and will start the transcription.  This process can be seen on the console where the transcript will be displayed.
- 9. When the process finish. The complet transcription will be in direcoty texts/original_file_name.txxt
+ 9. When the process finish, the complet transcription will be in direcoty texts/original_file_name.txxt
 
 
 Author: [André Luiz Ximenes](https://www.linkedin.com/in/andreluizximenes/)
