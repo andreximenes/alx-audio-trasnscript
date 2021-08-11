@@ -3,5 +3,5 @@
 *.wav
 /venv
 *.ipynb
-/src/*.txt
+/src/texts/*.txt
 /audio-chunks
